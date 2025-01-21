@@ -2,7 +2,6 @@
 Altere o programa para também exibir o próximo nome da lista.
 
 Exiba os dois (sorteado e próximo).
-
 '''
 
 import random

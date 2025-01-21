@@ -2,7 +2,6 @@
 Altere o programa  para sortear (aleatoriamente) um dos nomes armazenados.
 
 Exiba o nome sorteado!
-
 '''
 
 import random

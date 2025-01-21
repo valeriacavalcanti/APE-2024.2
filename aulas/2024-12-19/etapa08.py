@@ -3,7 +3,6 @@ Altere o programa para não sortear e sim
 exibir todos os nomes, um por linha.
 
 Em cada linha também exibir o próximo!
-
 '''
 
 import random

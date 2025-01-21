@@ -2,7 +2,6 @@
 Altere o programa para permutar o primeiro nome com o último nome armazenado.
 
 Exiba todos os nomes armazenados!
-
 '''
 
 import random

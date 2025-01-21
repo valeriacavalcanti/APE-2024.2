@@ -2,7 +2,6 @@
 Altere o programa para armazenar vários nomes, até que um nome “vazio” (sem caracteres) seja informado.
 
 Exiba todos os nomes armazenados!
-
 '''
 
 nomes = []

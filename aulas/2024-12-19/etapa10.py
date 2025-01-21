@@ -2,7 +2,6 @@
 Ao final, seu programa deverá exibir todos os nomes (e respectivo e-mail), um por linha. 
 
 Em cada linha também exibir o próximo (com respectivo e-mail).
-
 '''
 
 import random

@@ -2,7 +2,6 @@
 Altere o programa para 6 vezes sortear aleatoriamente duas posições e permutar os nomes entre elas.
 
 Exiba todos os nomes armazenados!
-
 '''
 
 import random

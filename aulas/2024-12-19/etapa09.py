@@ -1,7 +1,6 @@
 '''
 Altere o programa para também 
 armazenar o e-mail de cada pessoa.
-
 '''
 
 import random
